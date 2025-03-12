@@ -3,7 +3,7 @@ title: Purva Shah
 #description: text below image
 show_downloads: true
 remote_theme: forty-jekyll-theme
-theme: forty-jekyll-theme
+#theme: forty-jekyll-theme
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
